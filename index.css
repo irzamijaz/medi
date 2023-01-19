@@ -1,0 +1,75 @@
+.logo{
+    margin-left: 120px;
+    margin-top: 40px;
+}
+.sign-up{
+        background-color: #824ff1;
+    color: white;
+    margin-left: 20px;
+    padding: 15px 25px;
+    font-size: 15px;
+}
+.learn{
+    background-color: #824ff1;
+    color: white;
+    margin-top: 20px;
+    font-size: 13px;
+    padding: 15px 30px;
+}
+.nav{
+    display: flex;
+    
+    position: fixed;
+    top: 15px;
+    justify-content: left;
+    list-style-type: none;
+    margin-left: 470px;
+    padding: 9px;
+}
+p{
+       font-family: 'Roboto', sans-serif;
+
+}
+
+.right{
+    
+    position: fixed;
+    right: 50px;
+    top: 15px;
+    display: flex;
+    justify-content: left;
+    list-style-type: none;
+    padding: 9px;
+}
+button{
+    border: none;
+    background-color: white;
+    font-size: medium;
+    padding: 15px 20px;
+    border-radius: 5px;
+    
+}
+.lady{
+    margin-left: auto   ;
+    margin-top: 150px;
+    
+}
+.ladyi{
+    height: 80%;
+    width: auto;
+}
+.heading{
+    display: flex;
+
+}
+h1{
+    font-family: 'Ramaraja', serif;
+    font-size: 50px;
+    font-weight: lighter;
+
+}
+.text{
+    line-height: 1.5;
+    margin-left: 120px;
+    margin-top: 200px;
+}
